@@ -30,6 +30,10 @@ The software tools developed for this project provide the following features:
 
 5. **Collaboration and Sharing**: By sharing the link to the web-based dashboard, project team members and stakeholders can easily collaborate on the project. They can access and interact with the dashboard, provide feedback, and contribute to the project's progress.
 
+*******************************************************
+## Demo :
+https://raedokal.github.io/VersaBoard/
+
 
 
 
